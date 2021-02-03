@@ -1411,6 +1411,6 @@ ij_properties_key_value_delimiter = equals
 ij_properties_spaces_around_key_value_delimiter = false
 
 [{*.yaml, *.yml}]
-indent_size = 2
+indent_size = 4
 ij_yaml_keep_indents_on_empty_lines = false
 ij_yaml_keep_line_breaks = true
