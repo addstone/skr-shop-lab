@@ -31,19 +31,19 @@
 
 ### 项目及目录
 
-​	docs	存放项目文档
+​	docs	存放项目文档  
 
-​		mysql	存放mysql 相关sql代码
+​		mysql	存放mysql 相关sql代码  
 
-​	shop-lab 存放 Java后端相关代码
+​	shop-lab 存放 Java后端相关代码  
 
-​		spring-cloud 	spring 微服务相关
+​		spring-cloud 	spring 微服务相关  
 
-​		shop-lab	电商业务相关
+​		shop-lab	电商业务相关  
 
-​	shop-lab-admin-vue 后代系统代码
+​	shop-lab-admin-vue 后代系统代码  
 
-​	shop-lab-vue 电商界面代码
+​	shop-lab-vue 电商界面代码  
 
 
 

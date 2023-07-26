@@ -1,11 +1,11 @@
 # 功能模块
 ### 功能模块
 
-​	用户模块
+​	账户模块
 
-​		[账户模块](Member-Account.md)
+​		[用户模块](Account-Member.md)
 
-​		[权限模块](Member-Auth.md)
+​		[权限模块](Account-Auth.md)
 
 ​	购物模块
 
