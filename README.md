@@ -17,9 +17,9 @@
 
 ​		java
 
-​			Jdk 1.8
+​			JDK 17
 
-​			spring boot 2.3
+​			Spring boot 3.x
 
 ​		数据
 
@@ -27,7 +27,7 @@
 
 ​	前端
 
-​			vue
+​			Vue 3.x
 
 ### 项目及目录
 
